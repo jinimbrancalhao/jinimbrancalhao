@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
 </div>
 
 <div id="badges" align="center">
@@ -16,7 +16,11 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" width="700" height="400"/>
+  <h1>Hi :wave: I'm Jin</h1>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="700" height="400"/>
 </div>
 
 ---
@@ -31,14 +35,17 @@ I am a full stack developer based in Boston, MA
 
 --- 
 
-### My Stats
+### My Stats:
 
-<img align="left" alt="Top Langs" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinimbrancalhao&layout=compact" />
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinimbrancalhao&layout=compact" />
 
-<img align="left" alt="Codewars Kata Rank" width="47%" src="https://www.codewars.com/users/jinimbrancalhao/badges/large" />
+<img alt="Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=jinimbrancalhao"/>
 
+<img alt="Codewars Kata Rank" src="https://www.codewars.com/users/jinimbrancalhao/badges/large" />
+
+---
+  
 <div>
-
   <img align="left" alt="Java Badge" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> 
 
   <img align="left" alt="JavaScript Badge" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
@@ -54,7 +61,6 @@ I am a full stack developer based in Boston, MA
   <img align="left" alt="Maven Badge" src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white"/>
 
   <img align="left" alt="Node Badge" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  
 </div>  
 
 
