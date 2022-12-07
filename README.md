@@ -31,7 +31,7 @@ I am a full stack developer based in Boston, MA
 
 - I am currently working as a developer on an agile team focused on backend development
 - I have a background in client-facing services and business ownership
-- I really enjoy problem solving, so in my free time I like to solve coding challenges on Codewars. I am also currently reading The Algorithm Design Manual by Steven Skiena.
+- I really enjoy problem solving, so in my free time I like to solve coding challenges on Codewars. I recently reached 4kyu overall!
 
 --- 
 
