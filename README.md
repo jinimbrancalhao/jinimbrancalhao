@@ -29,9 +29,9 @@
 
 I am a full stack developer based in Boston, MA
 
-- I am currently working as a developer on an agile team focused on backend development
-- I have a background in client-facing services and business ownership
-- I really enjoy problem solving, so in my free time I like to solve coding challenges on Codewars. I recently reached 4kyu overall!
+- Professionally, I have worked with various technologies including Golang, Java, and TypeScript. I am currently working as an iOS developer utilizing Swift and Objective-C.
+- I have a background in client-facing services and business ownership.
+- I am currently studying Python web development in my free time!
 
 --- 
 
